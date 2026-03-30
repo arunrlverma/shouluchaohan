@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shouluchaohan.com/sitemap.xml
